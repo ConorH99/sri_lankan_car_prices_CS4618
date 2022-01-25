@@ -1,5 +1,5 @@
-"# sri_lankan_car_prices_CS4618" 
+# sri_lankan_car_prices_CS4618
 
 Assignment completed as part of CS4618 - Artificial Intelligence I.
 
-Predicting car prices in Sri Lanka.
+Predicts car prices in Sri Lanka.
